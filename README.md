@@ -10,7 +10,7 @@ Verified via opening the TCG for the first time on copies of the save files (not
 * prototype.sav's TCG has 4120 rings
 
 ### Region compatibility
-Only apply the EU.sav to a European copy of the ROM (see notes below) etc. alternatively you can manually check the header address x000000A0 of your .gba ROM; the EU.sav file should be applied to ROMs containing the SONICADVANC2A2NP header etc.
+Only apply the EU.sav to a European copy of the ROM (see notes below) etc. alternatively you can manually check the header address 0xA0 of your .gba ROM; the EU.sav file should be applied to ROMs containing the SONICADVANC2A2NP header etc.
 * EU.sav: SONICADVANC2A2NP
 * JP.sav: SONICADVANC2A2NJ
 * USA.sav: SONICADVANC2A2NE
